@@ -35,6 +35,8 @@ The only variables for each of the above that were included from the original da
 mean() (which represent the Mean value) and  
 std() (which represent the Standard deviation)  
 
+Then the mean for each subject was taken for each activity and this is reported in the final data set titled summary_data.csv.
+
 the complete list of variables included in the final data set are:  
 subject - number of individual from the experiment  
 activity - originally coded as a numerical variable, recoded as a factor with the following levels:   
