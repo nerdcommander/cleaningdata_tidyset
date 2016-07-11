@@ -1,4 +1,5 @@
 ## run_analysis.R
+# this script assumes that the zip file of the data was downloaded and saved in the working directory
 
 ## library stuff you need
 library(tidyr)
