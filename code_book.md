@@ -38,12 +38,12 @@ std() (which represent the Standard deviation)
 the complete list of variables included in the final data set are:  
 subject - number of individual from the experiment  
 activity - originally coded as a numerical variable, recoded as a factor with the following levels:   
-	1 WALKING  
-	2 WALKING_UPSTAIRS  
-	3 WALKING_DOWNSTAIRS  
-	4 SITTING  
-	5 STANDING  
-	6 LAYING  
+<ul><li>1 WALKING  
+<li>2 WALKING_UPSTAIRS  
+<li>3 WALKING_DOWNSTAIRS  
+<li>4 SITTING  
+<li>5 STANDING  
+<li>6 LAYING</ul>  
 tBodyAcc-mean()-X  
 tBodyAcc-mean()-Y  
 tBodyAcc-mean()-Z  
